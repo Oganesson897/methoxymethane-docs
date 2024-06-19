@@ -9,6 +9,8 @@
 | OpV  | 无尽洪流                    | PBO              | 玄素合金          |
 | MAX  | 强相互作用力构筑材料（SIM） | 弦               | 极稳态钅波        |
 
+![Photo](./assets/thanks-C3.jpeg)
+
 ## Index
 
 - Main
